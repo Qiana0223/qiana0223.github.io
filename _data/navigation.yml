@@ -1,0 +1,12 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Research
+  link: /research.html 
+- name: Mind Nurturing
+  link: /mind_nurturing.html
+- name: About
+  link: /about.html
+- name: Resources
+  link: /resources.html
