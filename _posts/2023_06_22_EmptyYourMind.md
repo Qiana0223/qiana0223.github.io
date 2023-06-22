@@ -1,6 +1,7 @@
 ---
 layout: post
 author: The Fictionist
+name: Empty Your Mind
 video: https://www.youtube.com/watch?v=GNDO2G6YySA&t=4s
 ---
 
