@@ -1,6 +1,7 @@
 ---
 layout: post
 author: Positiva
+name: How to Conquer Fear and Become Fearless
 video: https://www.youtube.com/watch?v=6H5rZydr5-E
 ---
 
