@@ -1,9 +1,6 @@
 collections:
   authors:
   output:true
-collections:
-  posts:
-  output:true
   
 defaults:
   - scope:
