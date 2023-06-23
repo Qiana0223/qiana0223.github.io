@@ -1,6 +1,8 @@
 collections:
   authors:
     output: true
+  videos:
+    output: true
   
 defaults:
   - scope:
