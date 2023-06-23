@@ -1,6 +1,6 @@
 ---
 author: Finctionist
-title: The Power Of Perception\: Change Your Way Of Thinking
+title: The Power Of Perception-Change Your Way Of Thinking
 video_url: https://www.youtube.com/embed/q3o72s8QscY
 date: Jun 23, 2023
 ---
