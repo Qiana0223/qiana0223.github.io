@@ -1,5 +1,5 @@
 ---
-name: Lifespend
+author: Lifespend
 title: Mastering the Art of Letting Go-A Zen Master's Wisdom for Inner Peace
 video_url: https://www.youtube.com/embed/IteCCFBsqW8
 date: Jun 15, 2023
