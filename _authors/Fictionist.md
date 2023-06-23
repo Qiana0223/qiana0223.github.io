@@ -1,4 +1,5 @@
 ---
+layout: author
 short_name: Fictionist
 name: The Fictionist
 position: xx
