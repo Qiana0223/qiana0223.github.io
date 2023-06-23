@@ -12,6 +12,11 @@ defaults:
       layout: "author"
   - scope:
       path: ""
+      type: "videos"
+    values:
+      layout: "video"
+  - scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
