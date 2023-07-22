@@ -1,0 +1,13 @@
+---
+layout: default
+title: Resources
+---
+<h1>Resource Pool</h1>
+<ul>
+  {% for resource in site.resources %}
+    <li>      
+      <h2><a href="{{ resource.url }}">{{ resource.name }}</a></h2>
+      {{ resource.name }}
+    </li>
+  {% endfor %}
+</ul>
