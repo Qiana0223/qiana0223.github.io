@@ -2,7 +2,14 @@
 layout: default
 ---
 <h1><a href="{{ page.resource_url }}">{{ page.name }}</a></h1>
-<h3> author: {{ page.author }}</h3>
+<h3>
+  {% assign author = site.authors | where: 'short_name', page.author | first %}
+  {% if author %}
+    - <a href="{{ author.url }}">{{ author.name }}</a>
+  {% endif %}
+</h3>
+
+<!-- <h3> author: {{ page.author }}</h3> -->
 <h3>date: {{ page.date | date_to_string  }}</h3>
 <!-- <h3>{{ page.type }}</h3>-->
 <h3>published by/in {{ page.publish }}</h3>
