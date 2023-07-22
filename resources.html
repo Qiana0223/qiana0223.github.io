@@ -7,9 +7,10 @@ title: Resources
   {% for resource in site.resources %}
     <li>      
       <h2>
-        <a href="{{ resource.url }}">{{ resource.name }}</a>
+        <a href="{{ resource.resource_url }}">{{ resource.name }}</a>
         -{{resource.author}}
-        -{{resource.date | }}
+        -{{resource.date | date_to_string }}
+        - {{resource.publish}}
       
       </h2>     
     </li>
