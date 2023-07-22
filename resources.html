@@ -13,7 +13,8 @@ title: Resources
         - {{resource.publish}}
       
       </h3>  
-      {{ resource.excerpt }}
+      <!--{{ resource.excerpt }}-->
+      <p>{{ resource.content | markdownify }}</p>
     </li>
   {% endfor %}
 </ul>
