@@ -21,6 +21,8 @@ layout: default
         <li><a href="{{ video.url }}">{{ video.title }}</a></li>
       {% endfor %}
    </ul>
+{% else %}
+    <p>No videos</p>
 {% endif %}
 
 
