@@ -7,7 +7,7 @@ title: Resources
   {% for resource in site.resources %}
     <li>      
       <h3>
-        <a href="{{ resource.resource_url }}">{{ resource.name }}</a>
+        <a href="{{ resource.url }}">{{ resource.name }}</a>
         - {{resource.author}}
         - {{resource.date | date_to_string }}
         - {{resource.publish}}
