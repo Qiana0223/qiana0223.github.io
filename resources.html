@@ -6,8 +6,12 @@ title: Resources
 <ul>
   {% for resource in site.resources %}
     <li>      
-      <h2><a href="{{ resource.url }}">{{ resource.name }}</a></h2>
-      {{ content }}
+      <h2>
+        <a href="{{ resource.url }}">{{ resource.name }}</a>
+        -{{resource.author}}
+        -{{resource.date | }}
+      
+      </h2>     
     </li>
   {% endfor %}
 </ul>
