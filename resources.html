@@ -12,7 +12,8 @@ title: Resources
         -{{resource.date | date_to_string }}
         - {{resource.publish}}
       
-      </h2>     
+      </h2>  
+      {{ resource.excerpt }}
     </li>
   {% endfor %}
 </ul>
