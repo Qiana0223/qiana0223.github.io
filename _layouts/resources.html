@@ -1,16 +1,11 @@
 ---
 layout: default
 ---
-<h1>{{ page.title }}</h1>
+<h1><a href="{{ page.url }}">{{ page.name }}</a></h1>
+<h3>{{ page.author }}</h3>
+<h3>{{ page.date }}</h3>
+<h3>{{ page.type }}</h3>
+<h3>{{ page.publish }}</h3>
 
-<p>
-  {{ page.date | date_to_string }}
-  {% assign author = site.authors | where: 'short_name', page.author | first %}
-  {% if author %}
-    - <a href="{{ author.url }}">{{ author.name }}</a>
-  {% endif %}
-</p>
-<iframe width="420" height="315"
-src="{{ page.video_url}}">
-</iframe>
 {{ content }}
+
