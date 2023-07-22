@@ -26,7 +26,7 @@ layout: default
 
 {% assign filtered_videos = site.videos | where: 'author', page.short_name %} 
 {% assign video_size = filtered_videos | size %} <!--check if there is any video-->
-{% if video_size > 0 %} 
+{% if filtered_videos > 0 %} 
    <ul>
       <h2>Videos</h2>
       {% for video in filtered_videos %}
