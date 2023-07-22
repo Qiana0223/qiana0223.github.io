@@ -8,7 +8,7 @@ layout: default
 {% endif %}
 
 
-{{ content }}
+<!--{{ content }}-->
 
 <!--
 <h2>Posts</h2>
@@ -22,18 +22,19 @@ layout: default
 
 
 
-{% assign video_size = site.videos | size %} <!--check if there is any video-->
+
+
+{% assign filtered_videos = site.videos | where: 'author', page.short_name %} 
+{% assign video_size = filtered_videos | size %} <!--check if there is any video-->
 {% if video_size > 0 %} 
-<ul>
-    {% assign filtered_videos = site.videos | where: 'author', page.short_name %} 
-    {% assign video_size = filtered_videos | size %} <!--check if there is any video-->
-    {% if video_size > 0 %} 
+   <ul>
       <h2>Videos</h2>
       {% for video in filtered_videos %}
         <li><a href="{{ video.url }}">{{ video.title }}</a></li>
       {% endfor %}
-   {% endif %}
-</ul>
+   </ul>
+{% endif %}
+
 
 
 <!--
