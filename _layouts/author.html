@@ -1,8 +1,12 @@
 ---
 layout: default
 ---
-<h1>{{ page.name }}</h1>
-<h2>{{ page.position }}</h2>
+{% if page.author_url != "" and page.author_url != nil %}
+  <h1><a href="{{ page.author_url }}">{{ post.name }}</a></h1>
+{% else %}
+   <h1>{{ page.name }}</h1>
+{% endif %}
+
 
 {{ content }}
 
@@ -16,10 +20,18 @@ layout: default
 </ul>
 -->
 
-<h2>Videos</h2>
+
+
+
+
 <ul>
   {% assign filtered_videos = site.videos | where: 'author', page.short_name %}
-  {% for video in filtered_videos %}
-    <li><a href="{{ video.url }}">{{ video.title }}</a></li>
-  {% endfor %}
+  {%- if filtered_videos !=nil -%}
+      <h2>Videos</h2>
+      {% for video in filtered_videos %}
+        <li><a href="{{ video.url }}">{{ video.title }}</a></li>
+      {% endfor %}
+  {% else %}
+      <div></div>
+  {%- endif -%}
 </ul>
