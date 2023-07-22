@@ -26,24 +26,25 @@ layout: default
 {% if video_size > 0 %} 
 <ul>
     {% assign filtered_videos = site.videos | where: 'author', page.short_name %} 
+    {% assign video_size = filtered_videos | size %} <!--check if there is any video-->
+    {% if video_size > 0 %} 
+      <h2>Videos</h2>
+      {% for video in filtered_videos %}
+        <li><a href="{{ video.url }}">{{ video.title }}</a></li>
+      {% endfor %}
+   {% endif %}
+</ul>
+
+
+<!--
+{% assign video_size = site.videos | size %} <!--check if there is any video-->
+{% if video_size > 0 %} 
+<ul>
+    {% assign filtered_videos = site.videos | where: 'author', page.short_name %} 
     <h2>Videos</h2>
     {% for video in filtered_videos %}
         <li><a href="{{ video.url }}">{{ video.title }}</a></li>
     {% endfor %}
 </ul>
 {% endif %}
-
-<!--
-<ul>
-  
-  {% assign filtered_videos = site.videos | where: 'author', page.short_name %}
-  {% if filtered_videos !=nil %}
-      <h2>Videos</h2>
-      {% for video in filtered_videos %}
-        <li><a href="{{ video.url }}">{{ video.title }}</a></li>
-      {% endfor %}
-  {% else %}
-      <div></div>
-  {% endif %}
-</ul>
 -->
