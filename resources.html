@@ -6,13 +6,13 @@ title: Resources
 <ul>
   {% for resource in site.resources %}
     <li>      
-      <h2>
+      <h3>
         <a href="{{ resource.resource_url }}">{{ resource.name }}</a>
         - {{resource.author}}
         - {{resource.date | date_to_string }}
         - {{resource.publish}}
       
-      </h2>  
+      </h3>  
       {{ resource.excerpt }}
     </li>
   {% endfor %}
