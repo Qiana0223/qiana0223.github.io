@@ -1,9 +1,8 @@
-
 ---
 author: soulAlchemy
 title: If You Talk To Yourself Like This, You'll Have Everything You Want 
 video_url: https://youtu.be/dFdukzKmwWU
-date:  Jul 22, 2023 
+date: Jul 22, 2023 
 ---
 Your words, both spoken and unspoken, transcend the limits of language, resonating as ethereal frequencies. Unleash the Art of Manifestation through Self-Talk and Discover the Power of Trusting Your Imagination.
 
