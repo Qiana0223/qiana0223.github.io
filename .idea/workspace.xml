@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb35ac7c-b341-4408-a12e-8f76416e2ea7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/jekyll-gh-pages.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/Fictionist.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/Lifespend.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/Positiva.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/blackburn.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_authors/soulAlchemy.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/navigation.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/navigation.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/author.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/post.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/resources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/video.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-01-conquerFear.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2023-06-02-emptyMind.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_resources/reinforcementLearning.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_sass/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/conquerFear.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/courageToTrustYourself.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/emptyMind.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/lettingGo.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/perceptionPower.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_videos/selfTalk_trustImagination.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/back_05_24_23/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/blog.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/bg.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index_0.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mind_nurturing.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/staff.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2kfw64ILv3qDasBXUjK8IVtMKZH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb35ac7c-b341-4408-a12e-8f76416e2ea7" name="Changes" comment="" />
+      <created>1723687760301</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1723687760301</updated>
+    </task>
+    <servers />
+  </component>
+</project>
