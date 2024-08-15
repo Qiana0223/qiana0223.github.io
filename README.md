@@ -6,34 +6,6 @@
 My homepage's source code is derived from Dr. Yaoyao Liu. Feel free to use and share. <br />
 For more details, please refer to this repository: <https://github.com/yaoyao-liu/minimal-light>.
 
-[comment]: <> (### Using Locally with Jekyll)
-
-[comment]: <> (Install [Ruby]&#40;https://www.ruby-lang.org/en/&#41; and [Jekyll]&#40;https://jekyllrb.com/&#41; fisrt.)
-
-[comment]: <> (Install and run:)
-
-[comment]: <> (```bash)
-
-[comment]: <> (bundle install)
-
-[comment]: <> (bundle exec jekyll server)
-
-[comment]: <> (```)
-
-[comment]: <> (View the live page using `localhost`:)
-
-[comment]: <> (<http://localhost:4000>. You can get the html files in the `_site` folder.)
-
-[comment]: <> (### Google Scholar Crawler)
-
-[comment]: <> (The instructions for the Google Scholar crawler can be found in [this repository]&#40;https://github.com/RayeRen/acad-homepage.github.io&#41;.)
-
-[comment]: <> (<br>)
-
-[comment]: <> (Before using that, you need to change the Google Scholar ID in the following file:)
-
-[comment]: <> (https://github.com/yaoyao-liu/yaoyao-liu.github.io/blob/7d16d828a229580815428782fb74d937710eb50e/google_scholar_crawler/main.py#L7)
-
 
 ### Acknowledgements
 

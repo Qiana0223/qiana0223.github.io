@@ -16,7 +16,7 @@ My current research focuses on applying **reinforcement learning** and **LLMs** 
 </strong> 
 -->
 
-{% include_relative _includes/news.md %}
+[comment]: <> ({% include_relative _includes/news.md %})
 
 {% include_relative _includes/education.md %}
 
