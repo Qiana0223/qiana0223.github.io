@@ -33,7 +33,7 @@ journal:
     # notes:
 
   - title: A Coverage-Driven Approach to Symbolic Execution of Smart Contracts
-    authors:<strong>Qiping Wei</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>; Fadul Sikder; Huadong Feng; Yu Lei; Raghu Kacker; Richard Kuhn
+    authors: <strong>Qiping Wei</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>; Fadul Sikder; Huadong Feng; Yu Lei; Raghu Kacker; Richard Kuhn
     # conference_short:
     conference: "Distributed Ledger Technologies: Research and Practice".
     pdf: https://dl.acm.org/doi/10.1145/3678188
