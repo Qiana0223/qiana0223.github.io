@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb35ac7c-b341-4408-a12e-8f76416e2ea7" name="Changes" comment="" />
+    <list default="true" id="cb35ac7c-b341-4408-a12e-8f76416e2ea7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/img/avatar0.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avatar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/avatar3.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
