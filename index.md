@@ -16,21 +16,21 @@ My current research focuses on applying **reinforcement learning** and **LLMs** 
 </strong> 
 -->
 
-[comment]: <> ({% include_relative _includes/news.md %})
+<!--{% include_relative _includes/news.md %}-->
 
 {% include_relative _includes/education.md %}
 
 {% include_relative _includes/publications.md %}
 
 
-[comment]: <> ({% include_relative _includes/teaching.md %})
+<!--{% include_relative _includes/teaching.md %}-->
 
 
-[comment]: <> ({% include_relative _includes/talks.md %})
+<!--{% include_relative _includes/talks.md %}-->
 
 
-{% include_relative _includes/services.md %}
+<!--{% include_relative _includes/services.md %}-->
 
-[comment]: <> ({% include_relative _includes/award.md %})
+<!--{% include_relative _includes/award.md %}-->
 
 {% include_relative _includes/contact.md %}
