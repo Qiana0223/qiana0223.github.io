@@ -3,13 +3,13 @@ current:
     title: "LLM-Formulated Process for Sequence Generation"
     project_short: "LLM-Formulated"
     page: https://qiana0223.github.io/
-    image: ./assets/img/sligpt1.jpg
+    image: ./assets/img/llm_based.jpg
 
   - description: "Reinforcement learning (RL) is a learning framework for sequence decision problems. It is effective to train agents to play a variety of games. This project takes an advantage of RL to learn an optimal policy to generate sequences by training an agent to play the game simulated on the symbolic execution process of a smart contract."
     title: "Game-based RL to Learn a Policy to Generate Sequences"
     project_short: "Game-based RL"
     page: https://qiana0223.github.io/
-    image: ./assets/img/sligpt1.jpg
+    image: ./assets/img/rl_based.jpg
 
 old:
   - description: "Dependency analysis is one widely used static analysis to enhance other techniques like fuzzing and symbolic execution. LLMs have shown remarkable capability to understand programming languages. This project is to study how an LLM can be used to do dependency analysis on Solidity smart contracts."
