@@ -10,7 +10,7 @@ conference:
     image: ./assets/img/smartexecutor_conf.jpg
 
   - title: "MagicMirror: Towards High-Coverage Fuzzing of Smart Contracts"
-    authors: Huadong Feng; Xiaolei Ren; <strong>Qiping Wei</strong>; Yu Lei; Raghu Kacker; D. Richard Kuhn <sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    authors: Huadong Feng<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>; Xiaolei Ren; <strong>Qiping Wei</strong>; Yu Lei; Raghu Kacker; D. Richard Kuhn
     conference_short: "ICST 23"
     conference: "IEEE Conference on Software Testing, Verification and Validation (ICST)."
     pdf: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10132226

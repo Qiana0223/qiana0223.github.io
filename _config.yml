@@ -3,7 +3,7 @@ title: Qiping Wei
 position: Ph.D. Student in Comp. Sci. & Eng.
 affiliation: University of Texas at Arlington
 affiliation_link: https://www.uta.edu/academics/schools-colleges/engineering/academics/departments/cse
-affiliation_logo: ./assets/img/uta_icon.jpg
+affiliation_logo: ./assets/img/uta_icon_small.jpg
 email: qiping.wei (at) mavs.uta.edu
 # email2: 
 
@@ -20,11 +20,11 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-#google_scholar: https://scholar.google.com/citations?user=GJtATkAAAAAJ
-# cv_link: https://pages.jh.edu/yliu538/files/Yaoyao_Liu_Curriculum_Vitae.pdf
+#google_scholar: xxx
+# cv_link: https://xxx.pdf
 github_link: https://github.com/qiana0223/
-# linkedin: https://www.linkedin.com/in/xingli-fang-7817b7231/
-# twitter: https://twitter.com/YaoyaoLiu1/
+# linkedin: xxx
+# twitter: xxx
 
 # Images 
 avatar: ./assets/img/avatar.jpg
