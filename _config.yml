@@ -32,7 +32,7 @@ favicon: ./assets/img/favicon1.png
 favicon_dark: ./assets/img/favicon1-dark.png
 
 # Educations
-bachelor_logo: ./assets/img/hust.png
+bachelor_logo: ./assets/img/hust.jpg
 master_logo: ./assets/img/uta_icon.jpg
 phd_logo: ./assets/img/uta_icon.jpg
 

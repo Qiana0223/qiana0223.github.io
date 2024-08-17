@@ -8,7 +8,7 @@ layout: homepage
 
 I am Qiping Wei, a Ph.D. student at The University of Texas at Arlington advised by [Dr. Jeff Lei](https://ranger.uta.edu/~ylei/).
 
-My current research focuses on applying **reinforcement learning** and **LLMs** to enhance symbolic execution of Solidity smart contracts. .
+My current research focuses on applying **reinforcement learning** and **LLMs** to enhance symbolic execution of Solidity smart contracts. 
 
 <!-- 
 <strong style="color:#e74d3c; font-weight:600">
