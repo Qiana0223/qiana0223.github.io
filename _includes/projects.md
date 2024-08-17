@@ -4,7 +4,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Projects</h2>
 
-<ul>
+<ol class="bibliography">
 <!-- current projects -->
 {% for proj in site.data.projects.current %}
 <li>
@@ -73,4 +73,4 @@
 {% endfor %}
 </div>
 
-</ul>
+</ol>
