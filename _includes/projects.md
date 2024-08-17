@@ -31,7 +31,7 @@
 </style>
 <h1 id="projects"></h1>
 
-<h2 style="margin: 60px 0px -30px;">Projects</h2>
+<h2 style="margin: 60px 0px -50px;">Projects</h2>
 
 <div class="projects">
 <ol class="bibliography">

@@ -29,7 +29,7 @@
 </style>
 <h1 id="publications"></h1>
 
-<h2 style="margin: 60px 0px -30px;">
+<h2 style="margin: 60px 0px -50px;">
 Publications 
 
 </h2>
