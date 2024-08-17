@@ -22,14 +22,15 @@ conference:
 
 journal:
   - title: "Sligpt: A Large Language Model-Based Approach for Data Dependency Analysis on Solidity Smart Contracts"
-    authors:  Xiaolei Ren*<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>; <strong>Qiping Wei*</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup>
+    authors: Xiaolei Ren*<sup><i class="fa-regular fa-envelope fa-xs"></i></sup>; <strong>Qiping Wei*</strong><sup><i class="fa-regular fa-envelope fa-xs"></i></sup> (* means equal contribution)
     # conference_short:
-    conference:  Software.
+    conference: Software.
     pdf: https://www.mdpi.com/2674-113X/3/3/18
-    # code:
+    code: https://github.com/contractAnalysis/sligpt
     page: https://www.mdpi.com/2674-113X/3/3/18
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: https://www.mdpi.com/software/software-03-00018/article_deploy/html/images/software-03-00018-g001.png
+    poster: ./assets/img/sligpt_poster_0.pdf
     # notes:
 
   - title: "A Coverage-Driven Approach to Symbolic Execution of Smart Contracts"
@@ -37,7 +38,7 @@ journal:
     # conference_short:
     conference: "Distributed Ledger Technologies: Research and Practice"
     pdf: https://dl.acm.org/doi/10.1145/3678188
-    # code:
+    code: https://github.com/contractAnalysis/smartExecutor
     page: https://dl.acm.org/doi/10.1145/3678188
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/smartexecutor_jx.jpg
