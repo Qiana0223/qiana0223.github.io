@@ -52,10 +52,10 @@ Active Projects
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
       <div class="title">{{ proj.title }}</div>
-      <div class="proj_description"><em>{{ proj.description }}</em> </div>
+      <div class="proj_description">{{ proj.description }} </div>
     <div class="links">
-      {% if proj.pdf %} 
-      <a href="{{ proj.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
+      {% if proj.paper %} 
+      <a href="{{ proj.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
       {% endif %}
       {% if proj.code %} 
       <a href="{{ proj.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
@@ -96,10 +96,10 @@ Inactive Projects
   </div>
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">  
       <div class="title">{{ proj.title }}</div>
-      <div class="proj_description"><em>{{ proj.description }}</em> </div>
+      <div class="proj_description">{{ proj.description }} </div>
     <div class="links">
-      {% if proj.pdf %} 
-      <a href="{{ proj.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
+      {% if proj.paper %} 
+      <a href="{{ proj.paper }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">paper</a>
       {% endif %}
       {% if proj.code %} 
       <a href="{{ proj.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>

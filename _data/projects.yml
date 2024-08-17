@@ -22,7 +22,7 @@ old:
   - description: "This project extends the previous project (graph-guided symbolic execution) by introducing the significance analysis on states (i.e., world states, inter-transaction states) generated in the symbolic execution process. "
     title: "State Prioritization to Enhance Symbolic Execution"
     project_short: "State Significance Analysis"
-    papger: https://dl.acm.org/doi/10.1145/3678188
+    paper: https://dl.acm.org/doi/10.1145/3678188
     page: https://github.com/qiana0223/SE.io
     image: ./assets/img/smartexecutor_jx.jpg
 
