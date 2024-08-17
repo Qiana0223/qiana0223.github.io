@@ -41,7 +41,6 @@ Publications
 <div class="publications">
 <ol class="bibliography">
 
-[comment]: <> (--------for conference----------------------)
 
 <h2 style="margin: 60px 0px -15px;">
 Conference
@@ -94,93 +93,6 @@ Conference
 {% endfor %}
 
 
-[comment]: <> ([comment]: <> &#40;--------for workshop----------------------&#41;)
-
-[comment]: <> (<h2 style="margin: 60px 0px -15px;">)
-
-[comment]: <> (Workshop)
-
-[comment]: <> (</h2><br>)
-
-[comment]: <> ({% for link in site.data.publications.workshop %})
-
-[comment]: <> (<li>)
-
-[comment]: <> (<div class="pub-row">)
-
-[comment]: <> (  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">)
-
-[comment]: <> (    <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" style="width=100;height=40%">)
-
-[comment]: <> (            {% if link.conference_short %} )
-
-[comment]: <> (            <abbr class="badge">{{ link.conference_short }}</abbr>)
-
-[comment]: <> (            {% endif %})
-
-[comment]: <> (  </div>)
-
-[comment]: <> (  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">)
-
-[comment]: <> (      <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>)
-
-[comment]: <> (      <div class="author">{{ link.authors }}</div>)
-
-[comment]: <> (      <div class="periodical"><em>{{ link.conference }}</em>)
-
-[comment]: <> (      </div>)
-
-[comment]: <> (    <div class="links">)
-
-[comment]: <> (      {% if link.pdf %} )
-
-[comment]: <> (      <a href="{{ link.pdf }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>)
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (      {% if link.code %} )
-
-[comment]: <> (      <a href="{{ link.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>)
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (      {% if link.page %} )
-
-[comment]: <> (      <a href="{{ link.page }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>)
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (      {% if link.bibtex %} )
-
-[comment]: <> (      <a href="{{ link.bibtex }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">BibTex</a>)
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (      {% if link.notes %} )
-
-[comment]: <> (      <strong> <i style="color:#e74d3c">{{ link.notes }}</i></strong>)
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (      {% if link.others %} )
-
-[comment]: <> (      {{ link.others }})
-
-[comment]: <> (      {% endif %})
-
-[comment]: <> (    </div>)
-
-[comment]: <> (  </div>)
-
-[comment]: <> (</div>)
-
-[comment]: <> (</li>)
-
-[comment]: <> (<br>)
-
-[comment]: <> ({% endfor %})
-
-[comment]: <> (--------for journal----------------------)
 
 <h2 style="margin: 60px 0px -15px;">
 Journal

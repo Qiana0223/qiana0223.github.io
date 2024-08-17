@@ -5,7 +5,7 @@ conference:
     conference: "Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)"
     pdf: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10316942
     code: https://github.com/contractAnalysis/smartExecutor
-    #page: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10316942
+    page: https://github.com/contractAnalysis/smartExecutor
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dVQ9V6GoCSgJ:scholar.google.com/&output=citation&scisdr=ClEobhnKEJrn2_cKeGM:AFWwaeYAAAAAZl4MYGMaJzUTWSodyPmXHJ-zAPo&scisig=AFWwaeYAAAAAZl4MYB5B_-SR-yN7_GIXPZGmhRc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/smartexecutor_conf.jpg
 
