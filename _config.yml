@@ -46,10 +46,16 @@ phd_logo: ./assets/img/uta_icon.jpg
 #clustrmaps_id: PaNXfGbGqWkJPFgftLllF8IUcF-VRFKYKBMZ-BEXaa8
 
 # The following files will be removed from the generated website.
+#exclude:
+#  - build.sh
+#  - Gemfile
+#  - Gemfile.lock
+#  - README.md
+#  - LICENSE
+#  - CNAME
 exclude:
   - build.sh
   - Gemfile
   - Gemfile.lock
-  - README.md
   - LICENSE
   - CNAME
