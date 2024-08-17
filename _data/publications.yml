@@ -29,7 +29,7 @@ journal:
     code: https://github.com/contractAnalysis/sligpt
     page: https://www.mdpi.com/2674-113X/3/3/18
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
-    image: https://www.mdpi.com/software/software-03-00018/article_deploy/html/images/software-03-00018-g001.png
+    image: ./assets/img/sligpt1.jpg
     poster: ./assets/img/sligpt_poster_0.pdf
     # notes:
 
