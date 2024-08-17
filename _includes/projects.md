@@ -34,7 +34,6 @@
 <h2 style="margin: 60px 0px 10px;">Projects</h2>
 
 <div class="projects">
-
 <ol class="bibliography">
 
 <!-- current projects -->
@@ -69,11 +68,14 @@
 {% endfor %}
 
 </ol>
+</div>
+
 
 <!-- old projects -->
-<li> <a href="javascript:toggle_vis('newsmore')">Show more</a> </li>
-<div id="newsmore" style="display:none">
 
+<p> <a href="javascript:toggle_vis('newsmore')">Show more</a> </p>
+<div id="newsmore" style="display:none">
+<div class="projects">
 <ol class="bibliography">
 {% for proj in site.data.projects.old %}
 <li>
@@ -104,8 +106,8 @@
 {% endfor %}
 
 </ol>
-
+</div>
 </div>
 
 
-</div>
+
