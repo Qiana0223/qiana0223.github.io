@@ -23,14 +23,14 @@ My current research focuses on applying **reinforcement learning** and **LLMs** 
 {% include_relative _includes/publications.md %}
 
 
-<!--{% include_relative _includes/teaching.md %}-->
+<!-- {% include_relative _includes/teaching.md %}-->
 
 
-<!--{% include_relative _includes/talks.md %}-->
+<!-- {% include_relative _includes/talks.md %} -->
 
 
-<!--{% include_relative _includes/services.md %}-->
+<!-- {% include_relative _includes/services.md %} -->
 
-<!--{% include_relative _includes/award.md %}-->
+<!-- {% include_relative _includes/award.md %} -->
 
 {% include_relative _includes/contact.md %}
