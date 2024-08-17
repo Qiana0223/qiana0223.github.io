@@ -16,6 +16,7 @@ My current research focuses on applying **reinforcement learning** and **LLMs** 
 </strong> 
 -->
 
+{% include_relative _includes/projects.md %}
 
 {% include_relative _includes/education.md %}
 

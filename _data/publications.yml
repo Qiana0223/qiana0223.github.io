@@ -5,7 +5,7 @@ conference:
     conference: "Conference on Blockchain Research & Applications for Innovative Networks and Services (BRAINS)"
     pdf: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10316942
     code: https://github.com/contractAnalysis/smartExecutor
-    page: https://github.com/contractAnalysis/smartExecutor
+    #page: https://github.com/contractAnalysis/smartExecutor
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dVQ9V6GoCSgJ:scholar.google.com/&output=citation&scisdr=ClEobhnKEJrn2_cKeGM:AFWwaeYAAAAAZl4MYGMaJzUTWSodyPmXHJ-zAPo&scisig=AFWwaeYAAAAAZl4MYB5B_-SR-yN7_GIXPZGmhRc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/smartexecutor_conf.jpg
 
@@ -15,7 +15,7 @@ conference:
     conference: "IEEE Conference on Software Testing, Verification and Validation (ICST)."
     pdf: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10132226
     code: https://smart-explorer.gitbook.io/smart
-    page: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10132226
+    #page: https://ieeexplore-ieee-org.ezproxy.uta.edu/document/10132226
     #bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:dVQ9V6GoCSgJ:scholar.google.com/&output=citation&scisdr=ClEobhnKEJrn2_cKeGM:AFWwaeYAAAAAZl4MYGMaJzUTWSodyPmXHJ-zAPo&scisig=AFWwaeYAAAAAZl4MYB5B_-SR-yN7_GIXPZGmhRc&scisf=4&ct=citation&cd=-1&hl=en
     image: ./assets/img/magic_mirror.jpg
 
@@ -27,7 +27,7 @@ journal:
     conference: Software.
     pdf: https://www.mdpi.com/2674-113X/3/3/18
     code: https://github.com/contractAnalysis/sligpt
-    page: https://www.mdpi.com/2674-113X/3/3/18
+    #page: https://www.mdpi.com/2674-113X/3/3/18
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/sligpt1.jpg
     poster: ./assets/img/sligpt_poster_0.pdf
@@ -39,7 +39,7 @@ journal:
     conference: "Distributed Ledger Technologies: Research and Practice"
     pdf: https://dl.acm.org/doi/10.1145/3678188
     code: https://github.com/contractAnalysis/smartExecutor
-    page: https://dl.acm.org/doi/10.1145/3678188
+    #page: https://dl.acm.org/doi/10.1145/3678188
     # bibtex: https://scholar.googleusercontent.com/scholar.bib?q=info:NZGEy3ujCC0J:scholar.google.com/&output=citation&scisdr=ClEobhnPEJTrxYmYZ2Q:AFWwaeYAAAAAZhWef2R_Qq9e3BVxUKdA0E6Bw1Q&scisig=AFWwaeYAAAAAZhWef-E7S0zQTgtsxg73nWn-cps&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1
     image: ./assets/img/smartexecutor_jx.jpg
     # notes:
