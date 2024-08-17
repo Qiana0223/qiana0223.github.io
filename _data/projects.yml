@@ -12,16 +12,16 @@ current:
 old:
   - description: "Sligpt: A Large Language Model-Based Approach for Data Dependency Analysis on Solidity Smart Contracts"
     project_short: "LLM for Data Dependency"
-    page: https://www.mdpi.com/2674-113X/3/3/18
+    page: https://github.com/contractAnalysis/sligpt
     image: ./assets/img/sligpt1.jpg
 
   - description: "A Coverage-Driven Approach to Symbolic Execution of Smart Contracts"
     project_short: "State Significance Analysis"
-    page: https://github.com/contractAnalysis/smartExecutor
+    page: https://github.com/qiana0223/SE.io
     image: ./assets/img/smartexecutor_jx.jpg
 
   - description: "SmartExecutor: Coverage-Driven Symbolic Execution Guided by a Function Dependency Graph"
     project_short: "Guided Symbolic Execution"
-    page: https://github.com/contractAnalysis/smartExecutor
+    page: https://github.com/qiana0223/SE.io
     image: ./assets/img/smartexecutor_conf.jpg
 
