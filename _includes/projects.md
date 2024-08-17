@@ -82,6 +82,9 @@ Active Projects
 <div id="newsmore" style="display:none">
 <div class="projects">
 <ol class="bibliography">
+<h2 style="margin: 60px 0px -15px;">
+Inactive Projects
+</h2><br>
 {% for proj in site.data.projects.old %}
 <li>
 <div class="pub-row">
