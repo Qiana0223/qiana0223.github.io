@@ -1,4 +1,4 @@
-<!-- adapted from news.md -->
+<!-- adapted from news.md and publications.md -->
 
 <style>
     /* 样式定义 */
@@ -31,11 +31,7 @@
 </style>
 <h1 id="projects"></h1>
 
-<h1 id="news"></h1>
-
 <h2 style="margin: 60px 0px 10px;">Projects</h2>
-
-
 
 <div class="projects">
 <ol class="bibliography">

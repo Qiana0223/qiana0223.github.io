@@ -49,7 +49,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .projects ol.bibliography li .abbr .award { color: var(--global-theme-color) !important; border: 1px solid var(--global-theme-color); }
 
 .projects ol.bibliography li .title { font-weight: bolder; }
-.projects ol.bibliography li .proj_description { font-weight: bolder; }
+.projects ol.bibliography li .proj_description { border-bottom: 1px var(--global-theme-color); }
 
 .projects ol.bibliography li .author a { border-bottom: 1px var(--global-theme-color); }
 
