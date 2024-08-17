@@ -38,7 +38,7 @@
 
 <h2 style="margin: 60px 0px -15px;">
 Active Projects
-</h2><br>
+</h2>
 
 <!-- current projects -->
 {% for proj in site.data.projects.current %}
@@ -84,7 +84,7 @@ Active Projects
 <ol class="bibliography">
 <h2 style="margin: 60px 0px -15px;">
 Inactive Projects
-</h2><br>
+</h2>
 {% for proj in site.data.projects.old %}
 <li>
 <div class="pub-row">

@@ -42,7 +42,7 @@ Publications
 
 <h2 style="margin: 60px 0px -15px;">
 Conference
-</h2><br>
+</h2>
 
 {% for link in site.data.publications.conference %}
 
@@ -94,7 +94,7 @@ Conference
 
 <h2 style="margin: 60px 0px -15px;">
 Journal
-</h2><br>
+</h2>
 
 {% for link in site.data.publications.journal %}
 
