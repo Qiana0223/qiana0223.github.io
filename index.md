@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Short Bio</h2>
 
-I am Qiping Wei, a Ph.D. student at The University of Texas at Arlington advised by [Dr. Jeff Lei](https://ranger.uta.edu/~ylei/).
+I am Qiping Wei, a Ph.D. student in the [SERC lab](https://sercatuta-lei.github.io/) at The University of Texas at Arlington advised by [Dr. Jeff Lei](https://ranger.uta.edu/~ylei/).
 
 My current research focuses on applying **reinforcement learning** and **LLMs** to enhance symbolic execution of Solidity smart contracts. 
 
