@@ -47,7 +47,7 @@ Education
         Department of Computer Science and Engineering.
         </span></h3>
         <p>
-        M.S. in Computer Engineering,  [2017 Fall - 2019 Fall]
+        M.S. in Computer Engineering,  [Awarded in Fall 2019]
         </p>
     </div>
 </div>
@@ -59,7 +59,7 @@ Education
         School of Computer Science and Technology
         </span></h3>
         <p>
-        B. in Computer Science and Technology,  [2012 - 2015 ]
+        B. in Computer Science and Technology,  [Awarded in Spring 2015]
         </p>
     </div>
 </div>
