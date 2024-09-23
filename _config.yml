@@ -21,7 +21,7 @@ enable_last_update: false
 # Links
 link_type: icon #text/icon
 #google_scholar: xxx
-cv_link: https://github.com/qiana0223/assets/img/resume--qiping-wei_9_22_2024.pdf
+cv_link: ./assets/img/resume--qiping-wei_9_22_2024.pdf
 github_link: https://github.com/qiana0223/
 # linkedin: xxx
 # twitter: xxx
