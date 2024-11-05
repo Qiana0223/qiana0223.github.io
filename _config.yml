@@ -20,7 +20,7 @@ enable_last_update: false
 
 # Links
 link_type: icon #text/icon
-#google_scholar: xxx
+google_scholar: https://scholar.google.com/citations?user=7i_ZGlsAAAAJ&hl=en
 cv_link: ./assets/img/CV_qiping.pdf
 github_link: https://github.com/qiana0223/
 # linkedin: xxx
