@@ -1,12 +1,12 @@
 current:
-  - description: "LLMs have the capacity to understand code and some reasoning skills. This project is to investigate how an LLM can be formulated to generate sequences that will be fed to the symbolic execution process."
+  - description: "Large Language Models(LLMs) have the capacity to understand code and some reasoning skills. This project is to investigate how an LLM can be formulated to generate sequences that will be fed to the symbolic execution process."
     title: "LLM-Formulated Process for Sequence Generation"
     project_short: "LLM-Formulated"
     page: https://qiana0223.github.io/
     image: ./assets/img/llm_based.jpg
 
-  - description: "Reinforcement learning (RL) is a learning framework for sequence decision problems. It is effective to train agents to play a variety of games. This project takes an advantage of RL to learn an optimal policy to generate sequences by training an agent to play the game simulated on the symbolic execution process of a smart contract."
-    title: "Game-Based RL to Learn a Policy to Generate Sequences"
+  - description: "Reinforcement learning (RL) is a learning framework for sequence decision problems. It is effective to train agents to play a variety of games. This project takes advantage of RL to learn an optimal policy to generate sequences by training an agent to play the game simulated on the symbolic execution process of a smart contract."
+    title: "Game-Based DRL to Learn a Policy to Generate Sequences"
     project_short: "Game-based RL"
     page: https://qiana0223.github.io/
     image: ./assets/img/rl_based.jpg
